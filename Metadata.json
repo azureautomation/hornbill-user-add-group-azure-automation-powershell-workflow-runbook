@@ -1,0 +1,20 @@
+{
+    "Author": "Hornbill Service Management",
+    "ContentSize": 2903,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/hornbill-user-add-group-azure-automation-powershell-workflow-runbook/master/Hornbill_UserAddGroup_Workflow.ps1",
+    "DownloadCount": 710,
+    "Id": "Hornbill-User-Add-Group-17adcc36",
+    "IsFederated": false,
+    "IsWorkflow": true,
+    "Popularity": 427,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2017-10-13T00:00:00",
+    "RunbookKind": 6,
+    "RunbookKindString": "PowerShell Workflow",
+    "Summary": "Azure Powershell Workflow runbook to add a user to a group within a Hornbill Instance",
+    "Title": "Hornbill User Add Group - Azure Automation Powershell Workflow Runbook",
+    "UpdatedDate": "2017-10-13T00:00:00",
+    "Url": "https://github.com/azureautomation/hornbill-user-add-group-azure-automation-powershell-workflow-runbook",
+    "UserTags": "Azure, Microsoft Azure, Powershell"
+}
